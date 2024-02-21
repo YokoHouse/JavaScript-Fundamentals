@@ -1,0 +1,3 @@
+function solve(inputArr, n){
+    
+}
